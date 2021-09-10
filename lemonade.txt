@@ -1,2 +1,5 @@
 This is our lemonade recipe:
-1. 
+1. Mint
+2. Lemon
+3. Water
+4. Sugar
