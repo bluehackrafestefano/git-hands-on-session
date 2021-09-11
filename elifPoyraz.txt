@@ -1,0 +1,6 @@
+This is our strawberry lemonade recipe:
+1. Strawberry
+2. Lemon
+3. Water
+4. Sugar
+5. Mint
